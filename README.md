@@ -1,1 +1,1 @@
-# Reconhecimento Sensorial de Acoes e Comportamentos
+# Reconhecimento Sensorial de Ações e Comportamentos
