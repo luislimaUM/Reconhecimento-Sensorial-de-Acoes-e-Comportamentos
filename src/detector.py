@@ -12,7 +12,8 @@ def LiveCamEdgeDetection_canny(image_color):
     threshold_1 = 30
     threshold_2 = 80
     image_gray = cv2.cvtColor(image_color, cv2.COLOR_BGR2GRAY)
-    canny = cv2.Canny(image_gray, threshold_1, threshold_2)
+    image_blurred = cv2.GaussianBlur(image_gray, (7, 7), 0)
+    canny = cv2.Canny(image_blurred, threshold_1, threshold_2)
     
     return canny
 
