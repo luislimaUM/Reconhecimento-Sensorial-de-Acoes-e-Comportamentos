@@ -1,8 +1,7 @@
 # Reconhecimento Sensorial de Ações e Comportamentos
 ![uminho](http://www4.di.uminho.pt/~jmf/IMAGES/um_eeng.gif)![uminho](http://www4.di.uminho.pt/~jmf/IMAGES/um_eeng.gif)
 
-  O projeto descrito na presente dissertação, consiste no desenvolvimento de uma plataforma de apoio á decisão no domínio da industria automóvel. O seu principal objetivo é o reconhecimento de comportamentos do condutor bem como o rastreamento do seu campo de visão, em tempo real.
-	A projeção efetuada surgiu no âmbito da dissertação de mestrado do Mestrado Integrado em Engenharia Informática da Universidade do Minho, na especialidade de Engenharia do Conhecimento.
+  The project described in this dissertation consists of the development of a decision support platform in the automotive industry. The main objective is the recognition of driver behavior as well as the tracking of its field of vision, in real time. The projection was made within the scope of the master's dissertation of the Integrated Master in Informatics Engineering of the University of Minho, in the specialty of Knowledge Engineering. 
 
 Abstract
 
